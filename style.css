@@ -69,7 +69,7 @@ h1{
     background-color:#ff9966;
     border-color: black;
     border-style: solid;
-    border-radius: 5%;
+    border-radius: 7%;
     font-size: 16px;
 }
 
@@ -93,7 +93,7 @@ h1{
     background-color:mediumslateblue;
     border-color: black;
     border-style: solid;
-    border-radius: 5%;
+    border-radius: 7%;
     font-size: 16px;
 }
 
@@ -114,7 +114,7 @@ h1{
     width:100px;
     height:70px;
     background-color: beige;
-    border-radius: 5%;
+    border-radius: 7%;
     border-color: black;
     border-style: solid;
     font-size: 14px;
@@ -124,7 +124,7 @@ h1{
     width:100px;
     height:70px;
     background-color: beige;
-    border-radius: 5%;
+    border-radius: 7%;
     border-color: black;
     border-style: solid;
     font-size: 14px;
