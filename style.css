@@ -130,12 +130,25 @@ h1{
     font-size: 14px;
 }
 
+.operator-button-equals{
+    width:100px;
+    height:70px;
+    background-color: beige;
+    border-radius: 7%;
+    border-color: black;
+    border-style: solid;
+    font-size: 14px;
+}
 .operator-button:hover{
     background-color: lightgrey;
 }
 
 .calculator-button:hover{
     background-color: lightgrey;
+}
+
+.operator-button-equals:hover{
+    background-color: lightgray;
 }
 
 .number_8{
